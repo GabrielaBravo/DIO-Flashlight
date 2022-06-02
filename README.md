@@ -4,7 +4,8 @@ Desafio: construir um App de lanterna que, além de ligar a lanterna do celular 
 
 ![Captura de Tela 2022-06-02 às 17 37 58](https://user-images.githubusercontent.com/32687879/171734936-ae7867fb-b78c-4d3f-b3bb-24dfe065fe8f.png)
 
-![Captura de Tela 2022-06-02 às 17 08 28](https://user-images.githubusercontent.com/32687879/171734946-33fdf277-f9d4-4e8a-bceb-57abd378097b.png)
+![Captura de Tela 2022-06-02 às 17 34 17](https://user-images.githubusercontent.com/32687879/171735039-2974b79a-3fb3-4aa5-8acb-491ea813a004.png)
+
 
 
 ## Conteúdo 
