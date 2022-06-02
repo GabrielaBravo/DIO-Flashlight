@@ -1,7 +1,6 @@
-# Dio - Flashlight
+# dio-flashlight
 
-
-Desafio: construção de um App de lanterna que, além de ligar a lanterna do celular ao tocar na tela, também acenderá quando for verificado o movimento de chacoalhar o celular utilizando React Native.
+Desafio dio: Construindo um app usando o sensor de movimento com React Native
 
 ![image](https://user-images.githubusercontent.com/28990749/165650549-07daaabe-15fa-432e-9146-71bae90e43b0.png)
 
